@@ -1,0 +1,27 @@
+{
+  "owner": "sunset377",
+  "prefix": "AIGC377-",
+  "projects": [
+    {
+      "repository": "AIGC377-momoco-content-director-skill",
+      "provenance": "original-clean-room-public-case",
+      "focus": ["agent-routing", "prompt-contract", "workflow", "validation"]
+    },
+    {
+      "repository": "AIGC377-fitness-training-journal-skill",
+      "provenance": "original-skill",
+      "focus": ["visual-generation", "identity-preservation", "fact-safety"]
+    },
+    {
+      "repository": "AIGC377-mono-color-editorial-skill",
+      "provenance": "mit-adaptation-with-attribution",
+      "focus": ["design-system", "doubao-adaptation", "prompt-engineering"]
+    },
+    {
+      "repository": "AIGC377-social-auto-upload",
+      "provenance": "upstream-fork",
+      "focus": ["xiaohongshu", "cli", "browser-automation", "publishing-workflow"]
+    }
+  ]
+}
+
