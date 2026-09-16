@@ -20,8 +20,9 @@
     {
       "repository": "AIGC377-social-auto-upload",
       "provenance": "upstream-fork",
+      "skill_path": "skills/xiaohongshu-upload",
+      "upstream": "francoeur003/one-click-social-publisher",
       "focus": ["xiaohongshu", "cli", "browser-automation", "publishing-workflow"]
     }
   ]
 }
-

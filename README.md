@@ -9,7 +9,7 @@
 | [AIGC377-momoco-content-director-skill](https://github.com/sunset377/AIGC377-momoco-content-director-skill) | 原创公开脱敏重写 | Agent 路由、Prompt Contract、结构化工作流、数据校验、安全停止线 |
 | [AIGC377-fitness-training-journal-skill](https://github.com/sunset377/AIGC377-fitness-training-journal-skill) | 原创 Skill | 中文视觉规则、人物一致性、事实保护、图像生成降级策略 |
 | [AIGC377-mono-color-editorial-skill](https://github.com/sunset377/AIGC377-mono-color-editorial-skill) | MIT 上游适配 | 设计系统 JSON、跨运行环境适配、原创性防火墙、稳定配方 |
-| [AIGC377-social-auto-upload](https://github.com/sunset377/AIGC377-social-auto-upload) | 上游 Fork / 工具集成 | 小红书等平台的命令式发布、登录状态检查、多账号隔离与失败回退 |
+| [AIGC377-social-auto-upload](https://github.com/sunset377/AIGC377-social-auto-upload/tree/main/skills/xiaohongshu-upload) | 上游 Fork / 工具集成 | 小红书等平台的命令式发布、登录状态检查、多账号隔离与失败回退 |
 
 ## 与 Agent 开发岗位的对应关系
 
@@ -37,4 +37,3 @@ flowchart LR
 ## 公开范围
 
 本索引不包含客户素材、账号 Cookie、登录凭据、个人照片、内部经营数据或无许可的第三方源码。MOMOCO 案例仓库是从零重写的公开脱敏版本，不是内部生产仓库的镜像。
-
